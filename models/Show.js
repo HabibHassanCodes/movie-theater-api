@@ -1,5 +1,6 @@
 //import our db, Model, DataTypes
 const { db, DataTypes } = require('../db')
+const Sequelize = require('sequelize');
 
 //Creating a User child class from the Model parent class
 const Show = db.define("shows", {

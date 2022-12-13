@@ -1,7 +1,8 @@
+
 {
   "name": "movie_rating_project_solution",
   "version": "1.0.0",
-  "description": "",
+  "description": "![logo](https://user-images.githubusercontent.com/44912347/202296600-c5f247d6-9616-49db-88f0-38433429d781.jpg)",
   "main": "db.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,9 +11,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2",
+    "express": "^4.18.2",
     "nodemon": "^2.0.15",
-    "sequelize": "^6.21.4",
+    "sequelize": "^6.27.0",
+    "sqlite": "^4.1.2",
     "sqlite3": "^5.0.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HabibHassanCodes/movie-theater-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HabibHassanCodes/movie-theater-api/issues"
+  },
+  "homepage": "https://github.com/HabibHassanCodes/movie-theater-api#readme"
 }
